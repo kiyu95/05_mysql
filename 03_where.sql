@@ -167,3 +167,4 @@ SELECT
 	ref_category_code
   FROM tbl_category 
  WHERE ref_category_code IS NOT NULL;
+ 
